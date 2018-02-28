@@ -4,7 +4,6 @@ Script for output json file.
 
 # Quickstart
 
-[TODO]
 
 Example of script launch on Linux, Python 3.5:
 
