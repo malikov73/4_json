@@ -2,8 +2,8 @@ import json
 import sys
 
 def load_data(filepath):
-    with open(filepath, 'r', encoding='utf-8') as json_file: 
-    	data = json.load(json_file)
+    with open(filepath, 'r', encoding='utf-8') as json_content: 
+    	data = json.load(json_content)
     return data
 
 
